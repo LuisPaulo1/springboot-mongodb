@@ -1,4 +1,4 @@
-package com.meudominio.springbootmongodb;
+package com.meudominio.springbootmongodb.config;
 
 import java.util.Arrays;
 
